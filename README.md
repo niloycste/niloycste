@@ -1,6 +1,6 @@
 ![MasterHead](https://cryptoadventure.com/wp-content/uploads/formidable/3/What-is-zero-knowledge-proof.jpg)
 <h1 align="center">Hi 👋, I'm M Mohaiminul Islam Niloy</h1>
-<h3 align="center">A passionate Tech Enthusiast.I am wokring on Blockchain,Data Analytics.</h3>
+<h3 align="center">A passionate Tech Enthusiast.I am wokring on Blockchain,Data Analytics & Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloycste&label=Profile%20views&color=0e75b6&style=flat" alt="niloycste" /> </p>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niloycste](https://github.com/niloycste)
 
-- 📝 I regularly write articles on [https://drive.google.com/drive/u/0/folders/19TBL9yS9AzQ9xueNHg_J3dkDk21Q86x9](https://drive.google.com/drive/u/0/folders/19TBL9yS9AzQ9xueNHg_J3dkDk21Q86x9)
+- 📝 I regularly write articles on [https://niloycste.github.io/niloy/](https://niloycste.github.io/niloy/)
 
 - 💬 Ask me about **Blockchain Technology,Python, Golang,Excel,Mysql**
 
@@ -34,8 +34,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/niloycste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/niloycste" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m. mohaiminul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. mohaiminul islam" height="30" width="40" /></a>
-<a href="https://fb.com/niloy islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy islam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niloy07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. mohaiminul islam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nocturnal.niloyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy islam" height="30" width="40" /></a>
 <a href="https://instagram.com/niloy_islam68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niloy_islam68" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/m mohaiminul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m mohaiminul islam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niloy8649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niloy8649" height="30" width="40" /></a>
