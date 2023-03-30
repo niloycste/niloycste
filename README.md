@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloycste" alt="niloycste" /></a> </p>
 
-- 🔭 I’m currently working on [Prison Management System](https://github.com/niloycste/Prison-Management-System)
+- 🔭 I’m currently working on [Data Analytics](https://github.com/niloycste/Data-Analysis-with-python)
 
 - 🌱 I’m currently learning **Spark,Hadoop, Cloud Computing**
 
@@ -17,13 +17,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niloycste](https://github.com/niloycste)
 
-- 📝 I regularly write articles on [https://niloycste.github.io/niloy/](https://niloycste.github.io/niloy/)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+
+
 
 - 💬 Ask me about **Blockchain Technology,Python, Golang,Excel,Mysql**
 
 - 📫 How to reach me **niloy8649@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📝 I regularly write articles on [https://niloycste.github.io/niloy/](https://niloycste.github.io/niloy/)
+
+
 
 - ⚡ Fun fact **positive guy**
 
@@ -33,13 +37,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/niloycste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/niloycste" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/niloy07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. mohaiminul islam" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nocturnal.niloyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niloy islam" height="30" width="40" /></a>
 <a href="https://instagram.com/niloy_islam68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niloy_islam68" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/m mohaiminul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m mohaiminul islam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/niloy8649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niloy8649" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niloy8649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niloy8649" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/niloycste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/niloycste" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
