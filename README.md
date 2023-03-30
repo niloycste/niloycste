@@ -1,6 +1,6 @@
 ![MasterHead](https://cryptoadventure.com/wp-content/uploads/formidable/3/What-is-zero-knowledge-proof.jpg)
 <h1 align="center">Hi 👋, I'm M Mohaiminul Islam Niloy</h1>
-<h3 align="center">A passionate Tech Enthusiast.I am wokring on Blockchain,Data Analytics & Data Science.</h3>
+<h3 align="center">A passionate Tech Enthusiast.I am working on Blockchain,Data Analytics & Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloycste&label=Profile%20views&color=0e75b6&style=flat" alt="niloycste" /> </p>
