@@ -1,31 +1,31 @@
 ![MasterHead](https://cryptoadventure.com/wp-content/uploads/formidable/3/What-is-zero-knowledge-proof.jpg)
 <h1 align="center">Hi 👋, I'm M Mohaiminul Islam Niloy</h1>
-<h3 align="center">A passionate Tech Enthusiast.I am working on Blockchain,Data Analytics & Data Science.</h3>
+<h3 align="center">A passionate Tech Enthusiast.I am working on Data Science, Blockchain, & Data Analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloycste&label=Profile%20views&color=0e75b6&style=flat" alt="niloycste" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloycste" alt="niloycste" /></a> </p>
 
-- 🔭 I’m currently working on [Data Analytics](https://github.com/niloycste/Data-Analysis-with-python)
+- 🔭 I’m currently working on [Computer vision](https://github.com/niloycste/Objects-Detection-using-yolo-v5)
 
 - 🌱 I’m currently learning **Spark,Hadoop, Cloud Computing**
 
 - 👯 I’m looking to collaborate on [Integrating Blockchain in Supply-Chain](https://github.com/niloycste/SCM-code-python)
 
-- 🤝 I’m looking for help with [Data Visualization using Tableau,Python,Excel](https://github.com/niloycste/Tableau-Project-)
+- 🤝 I’m looking for help with [Data Visualization using Tableau,Python,Excel](https://public.tableau.com/app/profile/niloy/vizzes)
 
 - 👨‍💻 All of my projects are available at [https://github.com/niloycste](https://github.com/niloycste)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my projects [HuggingFace](https://huggingface.co/niloycste68)
 
 
 
-- 💬 Ask me about **Blockchain Technology,Python, Golang,Excel,Mysql**
+- 💬 Ask me about **Data Science,NLP,Computer Vision,ML,DL,Blockchain Technology**
 
 - 📫 How to reach me **niloy8649@gmail.com**
 
-- 📝 I regularly write articles on [https://niloycste.github.io/niloy/](https://niloycste.github.io/niloy/)
+- 📝 This is my personal [website](https://niloycste.github.io/)
 
 
 
