@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Computer vision](https://github.com/niloycste/Objects-Detection-using-yolo-v5)
 
-- 🌱 I’m currently learning **Spark,Hadoop, Cloud Computing**
+- 🌱 I’m currently learning **NLP, Computer vision , Generative AI**
 
-- 👯 I’m looking to collaborate on [Integrating Blockchain in Supply-Chain](https://github.com/niloycste/SCM-code-python)
+- 👯 Masters Thesis on  [Integrating Blockchain in Supply-Chain](https://github.com/niloycste/SCM-code-python)
 
-- 🤝 I’m looking for help with [Data Visualization using Tableau,Python,Excel](https://public.tableau.com/app/profile/niloy/vizzes)
+- 🤝 Data Visualization with Tableau(https://public.tableau.com/app/profile/niloy/vizzes)
 
 - 👨‍💻 All of my projects are available at [https://github.com/niloycste](https://github.com/niloycste)
 
